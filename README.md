@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Yudai%20Yamase&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=IT%20Security%20%7C%20Software%20Developer%20%7C%20Pentester&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Yudai%20Yamase&fontSize=45&fontColor=58a6ff&fontAlignY=38&desc=IT%20Security%20%7C%20Software%20Developer%20%7C%20Pentester&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&width=600&lines=MSc+Cyber+Security+%7C+First+Class+Honours;Secure+Software+Development;Web+%26+Network+Pentesting;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes;Always+learning%2C+always+hacking+ethically+%F0%9F%94%90)](https://git.io/typing-svg)
@@ -38,7 +38,7 @@ class Yudai:
 ### Languages
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,c,html,css,sql&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,cs,c,html,css,sql&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -104,8 +104,6 @@ class Yudai:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-yudaimadeinjapan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudaimadeinjapan@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yudai--yamase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudai-yamase)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-yudai--yam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudai-yam)
 
