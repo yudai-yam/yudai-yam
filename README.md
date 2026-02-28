@@ -72,18 +72,6 @@ class Yudai:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yudai-yam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-yam&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
-
-</div>
-
----
-
 ## Highlights
 
 - **Master's Thesis** — Researched advanced XSS exploitation techniques: PostMessage XSS, Gadget-based XSS, and DOM Clobbering. Evaluated using OWASP ZAP, Burp Suite Pro, and XSStrike.
