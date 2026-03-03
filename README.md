@@ -74,7 +74,7 @@ class Yudai:
 
 ## Highlights
 
-- **Master's Thesis** — Researched advanced XSS exploitation techniques: PostMessage XSS, Gadget-based XSS, and DOM Clobbering. Evaluated using OWASP ZAP, Burp Suite Pro, and XSStrike.
+- **Master's Thesis** — Researched advanced XSS exploitation techniques: PostMessage XSS, Gadget-based XSS, and DOM Clobbering. Evaluated using OWASP ZAP, Burp Suite Pro, and XSStrike. Available [here](https://github.com/yudai-yam/masters_thesis_latex)
 - **Automation Win** — Built automated DB mapping pipelines (FastAPI + SQLAlchemy + Pydantic) that reduced manual workload by **80%**.
 - **Cloud Security** — Deployed and secured containerised services on **GCP & AWS** using Kubernetes and Docker in CI/CD pipelines.
 - **SIEM & EDR** — Managed enterprise security monitoring with Microsoft Sentinel, Power BI, and Power Automate.
